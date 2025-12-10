@@ -16,11 +16,17 @@ pkg install ./starcoder_1.0_aarch64.deb
 ***(then type)***
 
 starcoder
+
 coderai
+
 starcoderai
 
 
 ***type to exit***
+
 CTRL+C
+
 bye
+
 exit
+
